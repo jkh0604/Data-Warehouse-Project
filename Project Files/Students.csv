@@ -1,0 +1,102 @@
+﻿ID,Name,Address,Major,Degree,GPA,MonthDay,Y,Status
+100,A. Jones,Little Rock,Computer Sc,BS,3.1,May-15,84,I
+101,A. Jones,Little Rock,Computer Sc,MS,3.2,May-15,87,N
+107,M. Kochaal,Savannah,Chemistry,BS,3.9,May-15,92,N
+108,M. Big,Little Rock,Chemistry,BS,3.9,May-15,92,O
+109,P. Board,Atlanta,Chemistry,AS,4,Dec-15,88,I
+110,G. Bear,Little Rock,Biology,AS,4,Dec-15,88,O
+117,W. Big,Little Rock,Chemistry,BS,3.9,May-15,92,O
+132,A. White,Orlando,Computer Sc,AS,3.9,Aug-15,92,N
+150,A. Cool,Orlando,Computer Sc,MS,3.9,Aug-15,86,I
+165,A. Silver,Seattle,Elementary,MS,3.3,Aug-15,85,O
+175,K. Glob,Dallas,Applied Sc,PhD,3.2,Jul-4,89,N
+185,X. Jones,New York,Info Sc,BS,4,Dec-15,90,N
+195,D. Red,Seattle,Info Sc,BS,2.1,Dec-15,90,O
+199,K. Duell,Atlanta,Biology,AS,4,Dec-15,88,I
+200,B. Brady,Little Rock,Applied Sc,PhD,3.2,May-15,92,I
+201,W. Brady,Conway,Applied Sc,PhD,3.2,May-15,87,I
+202,A. Bank,Conway,Applied Sc,PhD,3.2,Jul-4,87,N
+203,Y. Little,Atlanta,Chemistry,MS,3.9,Jul-4,86,N
+205,K. Minges,Conway,Elementary,EdD,3.2,Aug-15,84,N
+207,K. Goolar,Atlanta,Chemistry,MS,3.9,Jul-4,86,N
+208,P. Little,Atlanta,Chemistry,MS,3.9,Jul-4,86,N
+215,K. King,Conway,Elementary,EdD,3.2,Aug-15,84,N
+222,D. Abul,Savannah,Economics,BA,3.9,Aug-15,90,N
+229,M. Katchal,Savannah,Economics,BA,3,Aug-15,91,N
+232,K. Blue,Little Rock,Computer Sc,AS,3.1,Aug-15,91,I
+250,K. Jones,Little Rock,Computer Sc,BS,3.1,Aug-15,86,N
+255,K. Dool,Atlanta,Secondary,MS,3.9,Jul-4,86,N
+299,M. Golab,Seattle,Chemistry,BS,3,May-15,84,N
+300,C. Cook,Little Rock,Biology,BS,2.2,Jun-1,87,I
+305,H. Molar,Conway,Biology,MS,3.2,Jul-4,84,N
+306,M. Searsy,Conway,Biology,MS,3.2,Jul-4,84,N
+307,M. Korp,Conway,Biology,MS,3.2,Jul-4,84,N
+308,M. Kartsoo,Conway,Biology,MS,3.2,Jul-4,84,N
+315,M. Gola,Conway,Secondary,MS,3.2,May-15,84,N
+329,G. Kooper,Savannah,Accounting,BA,3,Aug-15,91,N
+333,G. Halk,Atlanta,B Admin,MBA,2.9,Aug-15,90,N
+337,N. Mikhy,Savannah,B Admin,BA,2.8,Aug-15,87,O
+338,M. Bayraq,Savannah,B Admin,MBA,3.9,Aug-15,87,O
+339,H. Poory,Atlanta,B Admin,BA,3.9,Aug-15,87,N
+350,C. Cool,Pine Bluff,Applied Sc,MS,4,Aug-15,86,N
+352,C. Black,Pine Bluff,Applied Sc,PhD,3.8,Aug-15,90,O
+356,C. Brown,Denver,Applied Sc,PhD,4,Dec-15,89,I
+357,C. Brown,Denver,Applied Sc,PhD,4,Dec-15,89,O
+391,X. Searsy,Conway,Biology,MS,3.2,Jul-4,84,N
+400,D. Morty,Atlanta,Biology,BS,3.9,Jul-4,84,N
+401,D. Morgan,Conway,Biology,BS,3.9,Jul-4,87,I
+402,D. Morty,Seattle,Info Sc,BS,2.1,Dec-15,88,I
+407,T. Doolak,Seattle,B Admin,MBA,3.1,Jun-1,92,O
+415,T. King,Conway,Elementary,EdD,3.2,Aug-15,90,N
+416,T. Gola,Conway,Seconday,MS,3.2,May-15,90,N
+417,T. Dool,Atlanta,Secondary,MS,3.9,Jul-4,92,O
+418,T. Brown,Denver,Applied Sc,PhD,4,Dec-15,92,O
+419,T. Red,Seattle,Info Sc,BS,2.1,Dec-15,92,O
+420,T. Silver,Seattle,Elementary,EdD,3.3,Aug-15,91,N
+421,T. Chen,Conway,Elementary,EdD,3.2,Aug-15,91,I
+422,U. Yu,Conway,Secondary,MS,3.2,May-15,90,O
+423,U. Mooshe,Atlanta,Secondary,EdD,3.9,Jul-4,90,O
+431,W. Goos,Savannah,Accounting,BA,4.1,Aug-15,90,O
+439,H. Mishu,Savannah,Accounting,BA,2.8,Aug-15,87,O
+452,N. Brady,Little Rock,Applied Sc,PhD,3.2,Aug-15,88,I
+473,M. Browny,Seattle,Computer Sc,PhD,4,May-15,92,I
+500,K. Bronz,Dallas,Chemistry,MS,3.2,Jul-4,88,O
+524,U. Alramzy,Denver,Applied Sc,PhD,4,Dec-15,92,I
+529,M. Yu,Conway,Secondary,MS,3.2,May-15,90,I
+552,K. Ahmad,Atlanta,Secondary,EdD,3.9,Jul-4,87,O
+579,U. Jones,Little Rock,Computer Sc,BS,3.1,May-15,84,I
+590,X. Cook,Little Rock,Biology,AS,2.2,Jun-1,92,N
+591,Z. Kochaal,Savannah,Chemistry,BS,3.9,May-15,92,N
+600,C. Jones,Dallas,Info Sc,BS,4,Dec-15,88,O
+609,N. Gearsal,Little Rock,Biology,BS,4,Dec-15,88,O
+612,V. Board,Atlanta,Chemistry,AS,4,Dec-15,88,I
+615,K. Jiring,Conway,Element,BA,3.2,Aug-15,84,N
+650,D. Sorty,Atlanta,Biology,BS,3.9,Jul-4,84,N
+653,C. Alshukri,Denver,Applied Sc,PhD,4,Dec-15,91,O
+665,Z. Silver,Seattle,Elementary,EdD,3.3,Aug-15,91,I
+667,K. Chen,Conway,Elementary,EdD,3.2,Aug-15,92,O
+680,Y. Brady,Pine Bluff,Computer Sc,MS,3.8,May-15,90,O
+681,Y. Brady,Little Rock,Applied Sc,PhD,3.2,May-15,91,N
+682,Y. Cook,Little Rock,Biology,BS,2.2,Jun-1,87,O
+687,Y. Morty,Atlanta,Computer Sc,BS,3.9,Jul-4,84,N
+688,Y. Crema,Little Rock,Biology,AS,2.2,Jun-1,87,N
+689,Y. Morgan,Conway,Biology,BS,3.9,Jul-4,87,N
+690,D. Brown,Atlanta,Biology,BS,3.9,Jul-4,88,N
+699,A. Woo,Seattle,Elementary,BA,3,May-15,92,N
+700,A. Boss,Seattle,Elementary,MS,3.3,Aug-15,84,I
+702,Y. Brady,Conway,Applied Sc,PhD,3.2,May-15,87,I
+703,Y. Bank,Conway,Applied Sc,PhD,3.2,Jul-15,87,O
+715,M. Chendo,Conway,Secondary,MS,3.2,May-15,84,N
+739,A. Moon,Little Rock,Computer Sc,BS,3.1,Jun-1,84,N
+750,K. Gold,Dallas,Applied Sc,PhD,3.2,Jul-4,84,N
+800,K. Queen,Conway,Elementary,EdD,3.2,Aug-15,89,O
+839,Q. Robe,Pine Bluff,Computer Sc,MS,3.8,Jun-1,87,N
+850,F. Jones,New York,Info Sc,BS,4,Dec-15,85,I
+855,Z. Megart,Atlanta,Secondary,MS,3.9,Jul-4,86,N
+900,B. Gola,Conway,Secondary,MS,3.2,May-15,87,I
+901,C. Crema,Little Rock,Biology,AS,2.2,Jun-1,87,O
+939,U. Wang,Little Rock,Computer Sc,AS,3.1,Jul-4,84,O
+950,D. Golden,Seattle,Info Sc,BS,2.1,Dec-15,85,I
+955,K. Booth,Atlanta,Secondary,MS,3.9,May-15,87,O
+956,C. Jessy,Orlando,Applied Sc,MS,4,Dec-15,89,O
+986,Q. Brady,Pine Bluff,Computer Sc,MS,3.8,May-15,87,N
