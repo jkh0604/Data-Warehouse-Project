@@ -16,4 +16,11 @@ Time represents time (as time is always a dimension in Data Modeling).
 ### Data Model Implementation
 The data is then given a hierarchy of how the fields intermingle, and are then created in SQL by using a staging table to populate our fact table into this implementation.
 
-![Fact Table](/img1.png?raw=true "Fact Table")
+![Fact Table](/readme1.PNG?raw=true "Fact Table")
+
+### GUI
+Finally, to interact with the generated data warehouse there must be a GUI. This GUI is designed with viewability of hierarchies in mind, and will be able to filter and query by selecting the OLAP 'command' operation they would like to perform. 
+
+![GUI](/readme2.PNG?raw=true "GUI")
+Start Querying: Used to begin a query. 
+Continue Querying: Used to continue querying on the previously used query.
